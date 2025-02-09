@@ -20,6 +20,10 @@
 			"__optional__": true
 		}
 	},
-	"output": "string",
-	"path": "string"
+	"output": {
+		"__type__": "string"
+	},
+	"path": {
+		"__type__": "string"
+	}
 }
