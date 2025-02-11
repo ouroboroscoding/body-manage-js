@@ -8,5 +8,6 @@
  * @created 2025-02-08
  */
 import { Service } from '@ouroboros/body';
+export * as errors from './errors';
 declare const manage: Service;
 export default manage;
