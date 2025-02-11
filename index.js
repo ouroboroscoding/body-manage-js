@@ -9,6 +9,8 @@
  */
 // Ouroboros modules
 import { Service } from '@ouroboros/body';
+import * as errors_1 from './errors';
+export { errors_1 as errors };
 // Create an instance of Service and export it as default
 const manage = new Service('manage');
 export default manage;
