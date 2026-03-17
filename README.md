@@ -6,6 +6,9 @@ Code for interacting with the manage service created by Ouroboros Coding Inc.
 This code comes without documentation as it's not meant to be used by anyone
 outside of Ouroboros Coding Inc. Please see LICENSE for further information.
 
+See [Releases](https://github.com/ouroboroscoding/body-manage-js/blob/main/releases.md)
+for changes from release to release.
+
 ## Installation
 npm
 ```console
